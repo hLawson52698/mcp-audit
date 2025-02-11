@@ -1,0 +1,5 @@
+[project]
+name = "mcp-audit"
+version = "0.1.0"
+description = "See what your AI agents can access. Scan MCP configs for exposed secrets, shadow APIs, and AI models. Generate AI-BOMs for compliance."
+requires-python = ">=3.10"
